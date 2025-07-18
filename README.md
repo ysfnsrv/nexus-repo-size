@@ -42,6 +42,7 @@ PASS=$(vault kv get -field=password secret/nexus)
 Поиск всех .properties файлов...
 Обработка файлов...
 
+```
 📦 Размеры репозиториев (в байтах):
 Repository                                    Bytes
 ---------                                    ------
@@ -57,3 +58,4 @@ nuget.org-proxy                                7546
 my-app                                 824274444183
 gradle-raw                                608709246
 maven-releases                            584001341
+```
